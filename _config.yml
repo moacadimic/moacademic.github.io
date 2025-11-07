@@ -13,7 +13,7 @@ title                    : "Mohammed Aldeen"
 title_separator          : "-"
 name                     : &name "Mohammed Aldeen"
 description              : &description "Security & privacy researcher focused on policy compliance in connected ecosystems"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "" # Set to blank for local previews; update to your GitHub Pages URL before deploying
+url                      : "https://moacadimic.github.io" # Set to blank for local previews; update to your GitHub Pages URL before deploying
                                                            # e.g. "https://[your GitHub username].github.io" when publishing
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
